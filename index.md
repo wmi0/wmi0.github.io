@@ -16,3 +16,4 @@ I'm passionate about [your interests]. I enjoy [your hobbies] and I'm always lea
 Here are some of my recent projects:
 
 * [Project 1](link-to-project-1) - A brief description of project 1.
+* [Project 2](link-to-project-2) - A brief description of project 2.
